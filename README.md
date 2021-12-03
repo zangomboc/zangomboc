@@ -1,5 +1,7 @@
 ### I have a discord bot and you don't.
 
+Proud github copilot abuser.
+
 <!--
 **zangomboc/zangomboc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
