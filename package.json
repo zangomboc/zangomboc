@@ -1,0 +1,26 @@
+{
+  "name": "sptsapi",
+  "version": "1.0.0",
+  "description": "a simple script that extracts news from www.spts.si and hosts them locally.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zangomboc/sptsapi.git"
+  },
+  "author": "zangomboc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zangomboc/sptsapi/issues"
+  },
+  "homepage": "https://github.com/zangomboc/sptsapi#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "cron": "^1.8.2",
+    "express": "^4.17.1",
+    "node-html-parser": "^4.1.4"
+  }
+}
