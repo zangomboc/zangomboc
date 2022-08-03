@@ -1,5 +1,3 @@
-### I have a discord bot and you don't.
-
 Proud github copilot abuser.
 
 <!--
